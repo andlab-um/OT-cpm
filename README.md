@@ -1,6 +1,6 @@
 # OT-cpm
 
-<img src="https://github.com/andlab-um/Trust-untrust-face-judge/blob/main/main_structure.jpg" align="right" width="400px">
+<img src="https://github.com/andlab-um/OT-cpm/blob/main/structure.jpg" align="right" width="400px">
 
 > From [Affective, Neuroscience, and Decision-making Lab](https://andlab-um.com)
 >

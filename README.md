@@ -1,10 +1,9 @@
-# OT-cpm
+# OT-cpm    <img src="./structure.jpg" align="right" width="400px">
 
 [![Paper](https://img.shields.io/badge/Paper-10.1002%2Fhbm.26498-blue)](https://doi.org/10.1002/hbm.26498)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)
 ](https://twitter.com/ANDlab3)
 
-<img src="./structure.jpg" align="right" width="400px">
 
 > From [Affective, Neuroscience, and Decision-making Lab](https://andlab-um.com)
 
